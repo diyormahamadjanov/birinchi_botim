@@ -1,2 +1,15 @@
 # birinchi_botim
-start
+oco bot
+
+Bu botdan quyidagicha foydalanish mumkin.
+
+
+
+
+
+
+
+
+
+
+
