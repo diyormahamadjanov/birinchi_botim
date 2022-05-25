@@ -1,5 +1,5 @@
 # birinchi_botim
-oco bot
+eco bot
 
 Bu botdan quyidagicha foydalanish mumkin.
 
